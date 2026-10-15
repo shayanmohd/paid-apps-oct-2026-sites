@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "minimumMoves": 8
+  },
+  {
+    "id": 2,
+    "minimumMoves": 8
+  },
+  {
+    "id": 3,
+    "minimumMoves": 12
+  },
+  {
+    "id": 4,
+    "minimumMoves": 12
+  },
+  {
+    "id": 5,
+    "minimumMoves": 17
+  },
+  {
+    "id": 6,
+    "minimumMoves": 14
+  },
+  {
+    "id": 7,
+    "minimumMoves": 10
+  },
+  {
+    "id": 8,
+    "minimumMoves": 12
+  },
+  {
+    "id": 9,
+    "minimumMoves": 14
+  },
+  {
+    "id": 10,
+    "minimumMoves": 15
+  },
+  {
+    "id": 11,
+    "minimumMoves": 8
+  },
+  {
+    "id": 12,
+    "minimumMoves": 13
+  },
+  {
+    "id": 13,
+    "minimumMoves": 12
+  },
+  {
+    "id": 14,
+    "minimumMoves": 12
+  },
+  {
+    "id": 15,
+    "minimumMoves": 14
+  },
+  {
+    "id": 16,
+    "minimumMoves": 12
+  },
+  {
+    "id": 17,
+    "minimumMoves": 12
+  },
+  {
+    "id": 18,
+    "minimumMoves": 14
+  },
+  {
+    "id": 19,
+    "minimumMoves": 18
+  },
+  {
+    "id": 20,
+    "minimumMoves": 14
+  },
+  {
+    "id": 21,
+    "minimumMoves": 12
+  },
+  {
+    "id": 22,
+    "minimumMoves": 21
+  },
+  {
+    "id": 23,
+    "minimumMoves": 12
+  },
+  {
+    "id": 24,
+    "minimumMoves": 32
+  },
+  {
+    "id": 25,
+    "minimumMoves": 32
+  },
+  {
+    "id": 26,
+    "minimumMoves": 12
+  },
+  {
+    "id": 27,
+    "minimumMoves": 35
+  },
+  {
+    "id": 28,
+    "minimumMoves": 12
+  },
+  {
+    "id": 29,
+    "minimumMoves": 29
+  },
+  {
+    "id": 30,
+    "minimumMoves": 32
+  },
+  {
+    "id": 31,
+    "minimumMoves": 12
+  },
+  {
+    "id": 32,
+    "minimumMoves": 16
+  },
+  {
+    "id": 33,
+    "minimumMoves": 14
+  },
+  {
+    "id": 34,
+    "minimumMoves": 12
+  },
+  {
+    "id": 35,
+    "minimumMoves": 14
+  },
+  {
+    "id": 36,
+    "minimumMoves": 16
+  },
+  {
+    "id": 37,
+    "minimumMoves": 12
+  },
+  {
+    "id": 38,
+    "minimumMoves": 8
+  },
+  {
+    "id": 39,
+    "minimumMoves": 8
+  },
+  {
+    "id": 40,
+    "minimumMoves": 17
+  },
+  {
+    "id": 41,
+    "minimumMoves": 12
+  },
+  {
+    "id": 42,
+    "minimumMoves": 14
+  },
+  {
+    "id": 43,
+    "minimumMoves": 12
+  },
+  {
+    "id": 44,
+    "minimumMoves": 12
+  },
+  {
+    "id": 45,
+    "minimumMoves": 14
+  },
+  {
+    "id": 46,
+    "minimumMoves": 12
+  },
+  {
+    "id": 47,
+    "minimumMoves": 12
+  },
+  {
+    "id": 48,
+    "minimumMoves": 12
+  },
+  {
+    "id": 49,
+    "minimumMoves": 13
+  },
+  {
+    "id": 50,
+    "minimumMoves": 17
+  },
+  {
+    "id": 51,
+    "minimumMoves": 14
+  },
+  {
+    "id": 52,
+    "minimumMoves": 21
+  },
+  {
+    "id": 53,
+    "minimumMoves": 12
+  },
+  {
+    "id": 54,
+    "minimumMoves": 30
+  },
+  {
+    "id": 55,
+    "minimumMoves": 34
+  },
+  {
+    "id": 56,
+    "minimumMoves": 18
+  },
+  {
+    "id": 57,
+    "minimumMoves": 18
+  },
+  {
+    "id": 58,
+    "minimumMoves": 12
+  },
+  {
+    "id": 59,
+    "minimumMoves": 34
+  },
+  {
+    "id": 60,
+    "minimumMoves": 30
+  }
+]
